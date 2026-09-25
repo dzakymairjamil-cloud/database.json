@@ -1,5 +1,9 @@
 {
   "tokens": [
-    "8482482999:AAHXWsAjcxMIsa0ziH-x2uJvuvoKO_BImpc"
-  ]
+    "8482482999:AAHXWsAjcxMIsa0ziH-x2uJvuvoKO_BImpc",
+    "8482482999:AAFFgbEc1b2MSxLFYDNciSnsP3K7DsU9vNU"
+  ],
+  "tokenOwners": {
+    "8482482999:AAFFgbEc1b2MSxLFYDNciSnsP3K7DsU9vNU": "1720962662"
+  }
 }
